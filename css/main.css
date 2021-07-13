@@ -55,7 +55,7 @@ h6 {
 }
 
 p {
-  font-size: 1rem;
+  font-size: 1.25rem;
   margin: 0;
 }
 
@@ -65,7 +65,7 @@ a, a:visited, a:link, a:hover {
   cursor: pointer;
 }
 
-.elements-container {
+.custom-container {
   margin-top: 4rem;
   overflow: hidden;
 }
